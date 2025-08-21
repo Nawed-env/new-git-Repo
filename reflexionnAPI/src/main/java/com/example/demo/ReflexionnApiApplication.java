@@ -10,6 +10,7 @@ public class ReflexionnApiApplication {
 		SpringApplication.run(ReflexionnApiApplication.class, args);
 		System.out.println("nawed");
 		System.out.println("nawed");
+		System.out.println("ReflexionnApiApplication.main()");
 	}
 
 }
