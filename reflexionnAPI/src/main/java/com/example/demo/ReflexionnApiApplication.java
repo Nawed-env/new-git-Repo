@@ -11,6 +11,7 @@ public class ReflexionnApiApplication {
 		System.out.println("nawed");
 		System.out.println("nawed");
 		System.out.println("ReflexionnApiApplication.main()");
+		int a=10;
 	}
 
 }
